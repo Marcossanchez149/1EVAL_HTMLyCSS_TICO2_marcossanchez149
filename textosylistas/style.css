@@ -1,0 +1,11 @@
+    span{
+        font-style: oblique; color: rgba(23, 166, 177, 0.678);
+        
+    }
+
+span.negro{ 
+    font-weight: bold;
+}
+p { 
+    color: rgb(0, 252, 0);
+}
