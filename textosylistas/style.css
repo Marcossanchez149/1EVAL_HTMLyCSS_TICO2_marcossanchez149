@@ -9,3 +9,6 @@ span.negro{
 p { 
     color: rgb(0, 252, 0);
 }
+ul{
+    list-style-image:url("img/descarga.png") ;
+}
